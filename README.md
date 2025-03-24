@@ -28,6 +28,17 @@ In the  development process, the following news articles were used:
 
 These articles were processed to demonstrate the tool's capabilities and test its effectiveness.
 
+## Motivation and Goals
+
+In the fast-evolving real estate industry, keeping up with relevant information is critical for decision-making and strategy. While powerful tools like ChatGPT exist, they have limitations when it comes to aggregating domain-specific knowledge directly from user-supplied sources. This tool aims to address those limitations by:
+
+- **Creating an Aggregate Knowledge Base**: Aggregate knowledge from multiple articles into a single searchable resource for enhanced contextual understanding.
+- **Overcoming Context Window Limitations**: ChatGPT and similar models have constraints on the amount of context they can process at once. This tool uses embeddings and vector stores to enable large-scale information storage and retrieval without hitting these limitations.
+- **Streamlined Real-Time Insights**: Provide quick, precise, and reliable answers to real estate-related questions based on up-to-date content curated by the user.
+- **Adaptability for Other Domains**: Although designed for real estate, the framework can be easily adapted to other industries or knowledge domains.
+
+---
+
 ## Project Structure
 
 The repository is organized as follows:
