@@ -18,6 +18,16 @@ This repository provides a user-friendly research tool designed for seamless inf
 
 ---
 
+## Articles Used
+
+In the  development process, the following news articles were used:
+
+1. [How the Federal Reserve's rate policy affects mortgages](https://www.cnbc.com/2024/12/21/how-the-federal-reserves-rate-policy-affects-mortgages.html)
+2. [Why mortgage rates jumped despite Fed interest rate cut](https://www.cnbc.com/2024/12/20/why-mortgage-rates-jumped-despite-fed-interest-rate-cut.html)
+3. [Wall Street sees upside in 2025 for these dividend-paying real estate stocks](https://www.cnbc.com/2024/12/17/wall-street-sees-upside-in-2025-for-these-dividend-paying-real-estate-stocks.html)
+
+These articles were processed to demonstrate the tool's capabilities and test its effectiveness.
+
 ## Project Structure
 
 The repository is organized as follows:
